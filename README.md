@@ -1,1 +1,1 @@
-# DialogContextInfer
+# 대화 맥락 추론(가 유형)
